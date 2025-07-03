@@ -59,12 +59,12 @@
 					</dict>
 					<key>HS02</key>
 					<dict>
-						<key>#port</key>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>port</key>
 						<data>
 						AgAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>HS03</key>
 					<dict>
