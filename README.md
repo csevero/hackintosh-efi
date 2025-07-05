@@ -21,6 +21,12 @@ References:
 
 ## BIOS Settings
 
+<details><summary>CPU</summary>
+
+- CPU > Advanced Configurations > **Disable** the CFG Lock
+
+</details>
+
 <details><summary>Boot</summary>
 
 - Boot Configuration
