@@ -21,9 +21,14 @@ References:
 
 ## BIOS Settings
 
-<details><summary>CPU</summary>
+<details><summary>Overclock (OC)</summary>
 
-- CPU > Advanced Configurations > **Disable** the CFG Lock
+- Overclock Config 1
+  ![Overclock Config 1](.github/images/bios-config/overclocking/oc1.bmp)
+- Overclock Config 2
+  ![Overclock Config 2](.github/images/bios-config/overclocking/oc2.bmp)
+- CPU Features
+  ![CPU Features](.github/images/bios-config/overclocking/oc3.bmp)
 
 </details>
 
