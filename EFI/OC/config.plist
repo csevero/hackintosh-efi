@@ -607,6 +607,36 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>Base</key>
+				<string>_apfs_filevault_allowed</string>
+				<key>Comment</key>
+				<string>850c08686ac53d7b90a5ddab2224de96</string>
+				<key>Count</key>
+				<integer>0</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data></data>
+				<key>Identifier</key>
+				<string>com.apple.filesystems.apfs</string>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>MaxKernel</key>
+				<string>25.99.99</string>
+				<key>MinKernel</key>
+				<string>21.0.0</string>
+				<key>Replace</key>
+				<data>uAAAAADD</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>Base</key>
 				<string>__Z18e1000_set_mac_typeP8e1000_hw</string>
 				<key>Comment</key>
 				<string>I225-V patch</string>
